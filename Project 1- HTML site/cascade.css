@@ -1,0 +1,21 @@
+body{
+    
+    background-image: url("cool-background.png");
+}
+hr{
+    border-style: none;
+    border-top-style:dotted;
+    width:5%;
+    border-color: rgb(103, 96, 101);
+    border-width: 5px;
+}
+h1{
+    color:black;
+}
+h3{
+    color: #000201;
+    text-decoration: underline
+}
+a {
+    text-decoration: none;
+  }
